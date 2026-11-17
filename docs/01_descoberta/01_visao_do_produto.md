@@ -12,4 +12,4 @@
 
 ---
 
-[⬅ Anterior](../../README.md) | [Próximo ➡](02_personas.md)
+[Anterior](../../README.md) | [Próximo](02_personas.md)

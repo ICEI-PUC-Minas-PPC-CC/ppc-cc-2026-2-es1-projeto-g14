@@ -18,4 +18,4 @@
 
 ---
 
-[⬅ Anterior](01_visao_do_produto.md) | [Próximo ➡](03_product_backlog.md)
+[Anterior](01_visao_do_produto.md) | [Próximo](03_product_backlog.md)
