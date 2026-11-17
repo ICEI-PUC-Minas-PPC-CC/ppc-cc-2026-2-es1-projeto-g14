@@ -1,23 +1,17 @@
-# 🚀 [NOME DO PRODUTO]
+# 🚀 Desperrengue
 
 > **Template-base para o projeto da disciplina de Engenharia de Software I do curso de Ciência da Computação da PUC Minas (unidade Poços de Caldas).**
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-Este repositório é o ponto de partida para desenvolver soluções robustas, priorizando a compreensão do domínio de negócios antes da implementação técnica.
+O **Desperrengue** é um marketplace mobile de serviços residenciais que conecta clientes a prestadores autônomos verificados (eletricistas, encanadores, pedreiros, chaveiros, etc.) com segurança, previsibilidade e um modelo de comissionamento justo. A plataforma elimina a cobrança indevida por orçamentos, assegura a verificação de identidade e competência técnica (KYC) e garante a liquidação do pagamento por meio de custódia liberada por PIN de presença e evidências fotográficas.
 
 ## 👥 Equipe
 
-Informe os nomes dos integrantes do grupo deste projeto:
-
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
-- [Nome Completo] - [GitHub/LinkedIn]
+- Gabriel de Araújo Bernardes - [azengarddee](https://github.com/azengarddee)
+- Wagner Oliveira Claudiano - [Wagner-Claudiano](https://github.com/azengarddee)
+- Washington Assis Freitas - [Washington-Freitas](https://github.com/Washington-Freitas)
 
 ## 🏗️ Etapas do Projeto
 
